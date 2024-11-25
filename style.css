@@ -20,9 +20,9 @@ body {
     margin-top: 10em;
     border: 1px black solid;
     border-radius: 20px;
-    box-shadow: 10px 10px black;
-    padding: 15px;
-    font-size: 16px;
+    box-shadow: .35rem .35rem black;
+    padding: 1rem;
+    font-size: 1rem;
     font-family: "Figtree", sans-serif;
 }
 
@@ -45,7 +45,7 @@ body {
     cursor: pointer;
 }
 .content {
-    padding-top: 20px;
+    padding-top: 1.3rem;
 }
 .publish {
     color: var(--gray950);
